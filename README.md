@@ -4,7 +4,7 @@
 
 TraVLR is a dataset for evaluation of visio-linguistic reasoning and cross-modal transfer. 
 
-Paper: [TraVLR: Now You See It, Now You Don't! A Bimodal Dataset for Evaluating Visio-Linguisic Reasoning](https://arxiv.org/abs/2111.10756). 
+Paper: [TraVLR: Now You See It, Now You Don't! A Bimodal Dataset for Evaluating Visio-Linguistic Reasoning](https://arxiv.org/abs/2111.10756). 
 
 ### Dataset
 
@@ -18,7 +18,7 @@ Code for dataset generation: to be released.
 
 ```
 @inproceedings{TraVLR,
-      title={TraVLR: Now You See It, Now You Don't! A Bimodal Dataset for Evaluating Visio-Linguisic Reasoning}, 
+      title={TraVLR: Now You See It, Now You Don't! A Bimodal Dataset for Evaluating Visio-Linguistic Reasoning}, 
       author={Keng Ji Chow and Samson Tan and Min Yen Kan},
       year={2023},
       booktitle={EACL}
