@@ -12,7 +12,7 @@ Our dataset can be accessed [here](https://zenodo.org/record/6563623#.ZAMJJ3ZBwe
 
 ### Code
 
-Code for dataset generation: to be released.
+The code with which TraVLR datasets were generated is available under `DatasetGen`. 
 
 ### Citation
 
