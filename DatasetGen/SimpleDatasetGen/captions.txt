@@ -1,0 +1,1 @@
+{obj1.colour} {obj1.shape}

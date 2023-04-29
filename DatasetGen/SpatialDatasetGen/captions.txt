@@ -1,0 +1,4 @@
+The {obj1.colour} {obj1.shape} is {rel} the {obj2.colour} {obj2.shape}
+The {obj1.colour} {obj1.shape} is to the {rel} the {obj2.colour} {obj2.shape}
+There is a {obj1.colour} {obj1.shape} to the {rel} the {obj2.colour} {obj2.shape}
+There is a {obj1.colour} {obj1.shape} that is {rel} the {obj2.colour} {obj2.shape}

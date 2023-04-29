@@ -1,0 +1,6 @@
+The {obj1.colour} {obj1.shape} is at {obj1.position} the {obj2.colour} {obj2.shape} is at {obj2.position} and the {obj3.colour} {obj3.shape} is at {obj3.position}
+The {obj1.colour} {obj1.shape} is at {obj1.position} the {obj3.colour} {obj3.shape} is at {obj3.position} and the {obj2.colour} {obj2.shape} is at {obj2.position}
+The {obj2.colour} {obj2.shape} is at {obj2.position} the {obj1.colour} {obj1.shape} is at {obj1.position} and the {obj3.colour} {obj3.shape} is at {obj3.position}
+The {obj2.colour} {obj2.shape} is at {obj2.position} the {obj3.colour} {obj3.shape} is at {obj3.position} and the {obj1.colour} {obj1.shape} is at {obj1.position}
+The {obj3.colour} {obj3.shape} is at {obj3.position} the {obj2.colour} {obj2.shape} is at {obj2.position} and the {obj1.colour} {obj1.shape} is at {obj1.position}
+The {obj3.colour} {obj3.shape} is at {obj3.position} the {obj1.colour} {obj1.shape} is at {obj1.position} and the {obj2.colour} {obj2.shape} is at {obj2.position}

@@ -1,0 +1,1 @@
+There is a {obj1.colour} {obj1.shape} and a {obj2.colour} {obj2.shape}

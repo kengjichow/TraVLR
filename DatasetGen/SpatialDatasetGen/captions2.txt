@@ -1,0 +1,2 @@
+The {obj1.colour} {obj1.shape} is at {obj1.position} and the {obj2.colour} {obj2.shape} is at {obj2.position}
+The {obj2.colour} {obj2.shape} is at {obj2.position} and the {obj1.colour} {obj1.shape} is at {obj1.position}
